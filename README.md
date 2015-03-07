@@ -306,17 +306,6 @@ Array
 )
 ```
 
-### ()
-
-```php
-
-```
-
->Output:
-```
-
-```
-
 ## License
 
 The MIT License (MIT)
